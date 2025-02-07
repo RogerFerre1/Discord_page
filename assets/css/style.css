@@ -118,8 +118,8 @@ footer{
 }
 
 footer img{
-    width: 400px;
-    height: 60px;
+    width: 200px;
+    height: 40px;
 }
 
 @media (width: 430px){
